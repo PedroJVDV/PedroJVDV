@@ -1,4 +1,4 @@
-#Pedro Henrique 🧑🧑‍💻
+# Pedro Henrique 🧑🧑‍💻
  
 - Atualmente estudante de Analise e Desenvolvimento de Sistemas, com principal foco em Desenvolvimento em JAVA; venho buscando obter cada vez mais conhecimento com base no mercado! Sou acostumado a trabalhar em equipe, escutar e declarar novas resoluções que façam a diferença no ambiente inserido, estou disposto a melhorar cada vez mais e explorar novos desafios, ambientes e conversas, para que futuramente possa reclamar um aporte estruturado e reconhecido!! 
 
