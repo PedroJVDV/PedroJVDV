@@ -28,13 +28,12 @@
 
 #
 
+### 📊 Stats automáticas
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroJVDV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJVDV&theme=black-ice&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroJVDV&show_icons=true&theme=dark&count_private=true" alt="Pedro's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
-<br>
-<br>
-<br>
 
 # | Ferramentas utilizadas:
 
