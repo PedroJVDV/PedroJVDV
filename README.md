@@ -28,8 +28,12 @@
 
 #
 
-### 📊 Stats automáticas
+### -- STATUS -- 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroJVDV&show_icons=true&theme=dark&count_private=true" alt="Pedro's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
 
 
 # | Ferramentas utilizadas:
