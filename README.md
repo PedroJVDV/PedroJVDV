@@ -7,7 +7,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
 ---
 
 ### Tecnologias e Ferramentas
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,postman,docker,maven&theme=dark&perline=15" alt="My Skills" /></a>
 
 ---
 
