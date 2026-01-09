@@ -48,6 +48,11 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
 
 <br />
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroJVDV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJVDV&theme=tokyonight" alt="GitHub Streak"/>
 </p>
