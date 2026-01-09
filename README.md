@@ -7,7 +7,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
 ---
 
 ### Tecnologias e Ferramentas
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"></svg>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 
 ---
 
