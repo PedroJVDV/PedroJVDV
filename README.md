@@ -7,9 +7,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
 ---
 
 ### Tecnologias e Ferramentas
-<p align="center">
-  <img src="./aws-logo.svg" width="80" height="80" alt="AWS"/>
-</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws&theme=dark&perline=15" alt="My Skills" /></a>
 
 ---
 
