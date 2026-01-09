@@ -5,12 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=tokyonight"/>
 </div>
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total no ecossistema **Java**. Sou um desenvolvedor movido por desafios, focado em criar soluções que gerem impacto real. Tenho facilidade em trabalhar em equipes ágeis, priorizando a comunicação clara e a resolução colaborativa de problemas.
 
 - 🎯 **Foco atual:** Aperfeiçoamento em Spring Boot e Arquitetura de Microserviços.
 - 🌍 **Idioma:** Inglês Intermediário (B1/B2) — Evoluindo para o avançado.
-- 💡 **Filosofia:** "Melhorar constantemente para alcançar resultados extraordinários."
 
 ---
 
