@@ -48,6 +48,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
 
 <br />
 
-<div align="center">
+p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJVDV&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</p>
