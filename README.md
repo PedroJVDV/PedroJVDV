@@ -46,11 +46,11 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
   <a href="https://discord.gg/gbRZpDvfmm" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroJVDV&theme=tokyonight" alt="Profile Summary" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroJVDV&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroJVDV&theme=tokyonight" alt="Most Commit Language" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroJVDV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=tokyonight"/>
+
+![GitHub Streak](https://streak-stats.demolab.com/? user=PedroJVDV&theme=tokyonight)
+
+</div>
