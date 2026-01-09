@@ -1,9 +1,9 @@
 # Olá, eu sou o Pedro Henrique! 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroJVDV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroJVDV&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens mais usadas" height="170" />
+</p>
 
 ###  Sobre Mim
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total no ecossistema **Java**. Sou um desenvolvedor movido por desafios, focado em criar soluções que gerem impacto real. Tenho facilidade em trabalhar em equipes ágeis, priorizando a comunicação clara e a resolução colaborativa de problemas.
