@@ -1,13 +1,7 @@
-# Olá, eu sou o Pedro Henrique! 👋
+# Pedro Henrique | BackEnd Developer - JAVA
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api?username=PedroJVDV&show_icons=true&theme=tokyonight&count_private=true" alt="Pedro's GitHub Stats" height="180px" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api/top-langs/?username=PedroJVDV&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJVDV&theme=tokyonight" alt="GitHub Streak" />
+  <img src="" width="100%" height="150px" style="object-fit: cover;">
 </div>
 
 ###  Sobre Mim
