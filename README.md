@@ -1,13 +1,12 @@
 # Pedro Henrique | BackEnd Developer - JAVA
-###  Sobre Mim
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total no ecossistema **Java**. Sou um desenvolvedor movido por desafios, focado em criar soluções que gerem impacto real. Tenho facilidade em trabalhar em equipes ágeis, priorizando a comunicação clara e a resolução colaborativa de problemas.
 
-- 🎯 **Foco atual:** Aperfeiçoamento em Spring Boot e Arquitetura de Microserviços.
-- 🌍 **Idioma:** Inglês Intermediário (B1/B2) — Evoluindo para o avançado.
+- **Foco atual:** Aperfeiçoamento em Spring Boot e Arquitetura de Microserviços.
+- **Idioma:** Inglês Intermediário (B1/B2) — Evoluindo para o avançado.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Backend & Core**
 <p align="left">
@@ -32,14 +31,14 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
 
 ---
 
-### 📈 Objetivos de Aprendizado (Pipeline)
+### Objetivos de Aprendizado (Pipeline)
 - [ ] **Frontend:** Angular (Para atuar como Fullstack quando necessário)
 - [ ] **Cloud:** Certificação AWS Cloud Practitioner
 - [ ] **Idioma:** Fluência em Inglês
 
 ---
 
-### 📫 Vamos nos conectar?
+### Conexões
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedrojvdv/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
