@@ -1,5 +1,4 @@
 # Pedro Henrique | BackEnd Developer - JAVA
---
 ###  Sobre Mim
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total no ecossistema **Java**. Sou um desenvolvedor movido por desafios, focado em criar soluções que gerem impacto real. Tenho facilidade em trabalhar em equipes ágeis, priorizando a comunicação clara e a resolução colaborativa de problemas.
 
