@@ -11,7 +11,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total n
 
 ---
 
-### Objetivos de Aprendizado (Pipeline)
+### Objetivos de Aprendizado
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,aws&theme=dark&perline=15" alt="My Skills" /></a>
 - [ ] **Frontend:** Angular (Para atuar como Fullstack quando necessário)
 - [ ] **Cloud:** Certificação AWS Cloud Practitioner
