@@ -1,7 +1,7 @@
 # Pedro Henrique | BackEnd Developer - JAVA
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco total no ecossistema **Java**. Sou um desenvolvedor movido por desafios, focado em criar soluções que gerem impacto real. Tenho facilidade em trabalhar em equipes ágeis, priorizando a comunicação clara e a resolução colaborativa de problemas.
 
-- **Foco atual:** Aperfeiçoamento em Spring Boot e Arquitetura de Microserviços.
+- **Foco atual:** Aperfeiçoamento em Spring, Arquitetura de Microserviços e Integração CLOUD.
 - **Idioma:** Inglês Intermediário (B1/B2) — Evoluindo para o avançado.
 
 ---
